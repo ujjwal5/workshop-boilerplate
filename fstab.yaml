@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p96753-e1523920.adobeaemcloud.com/bin/franklin.delivery/ravise5/lab1/main
+    url: https://author-p46206-e1733317.adobeaemcloud.com/bin/franklin.delivery/ujjwal5/workshop-boilerplate/main 
     type: "markup"
     suffix: ".html"
